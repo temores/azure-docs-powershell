@@ -108,7 +108,7 @@ feedback from the command line, use the `Send-Feedback` cmdlet.
 |---|---|
 |I have Windows 10 or Windows Server 2016|Built into Windows Management Framework (WMF) 5.0 included in the OS|
 |I want to upgrade to PowerShell 5|[Install the latest version of WMF](https://www.microsoft.com/en-us/download/details.aspx?id=54616)|
-|I am running on a version of Windows with PowerShell 3 or PowerShell 4|[Get the PackageManagement modules](http://go.microsoft.com/fwlink/?LinkID=746217)|
+I am running on a version of Windows with PowerShell 3 or PowerShell 4|[Get the PackageManagement modules](http://go.microsoft.com/fwlink/?LinkID=746217)|
 
 <a id="helpmechoose"></a>
 ### Checking the version of Azure PowerShell
@@ -161,7 +161,7 @@ For more information, see the help topic for
 
 The PowerShellGet method of installation is the only method that supports the installation of
 multiple versions. For example, you may have scripts written using a previous version of Azure
-PowerShell that you don't have the time or resources to updated. The following commands illustrate
+PowerShell that you don't have the time or resources to update. The following commands illustrate
 how to install multiple versions of Azure PowerShell:
 
 ```powershell
